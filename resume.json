@@ -86,8 +86,7 @@
             "pair programming",
             "REST",
             "MVC",
-            "SOA",
-            "continuous integration"
+            "SOA"
          ]
       },
       {
@@ -106,7 +105,7 @@
           "position":"Software Engineer",
           "website":"https://www.holidayextras.co.uk",
           "startDate":"2018-07-17",
-          "summary":"After two years at Holiday Extras I was given the opportunity to move into the theatre/theme breaks side of the business 'Shortbreaks' to help in fulfilment of new contracts in a team with a start up mindset. After a exceptional success, the team dissolved to then complete three large fulfillments gained in a short 6 month period. I now work in a new partner team as a fullstack developer in both back end and front end JavaScript environments.",
+          "summary":"After two years at Holiday Extras I was given the opportunity to move into the theatre/theme breaks side of the business 'Shortbreaks' to help in fulfilment of new contracts in a team with a start up mindset. After an exceptional success, the team dissolved to then complete three large fulfillments gained in a short 6 month period. I now work in a new partner team as a fullstack developer in both back end and front end JavaScript environments.",
           "highlights":[
              "Front-end/React-Redux and serverside/Node JavaScript development",
              "Maintaining, monitoring and debugging micro-services and large APIs",
