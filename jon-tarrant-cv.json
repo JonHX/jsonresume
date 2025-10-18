@@ -1,0 +1,269 @@
+{
+  "$schema": "https://raw.githubusercontent.com/reorx/jsoncv/master/schema/jsoncv.schema.json",
+  "basics": {
+    "name": "Jonathan Tarrant",
+    "label": "Senior Software Engineer in AI",
+    "image": "./cvprofile.jpg",
+    "email": "jon.tarrant@hotmail.co.uk",
+    "phone": "0617027057",
+    "url": "https://linkedin.com/in/jtarrant",
+    "summary": "An experienced full-stack engineer and technical leader with deep expertise in distributed systems, serverless at scale, event driven architecture and cloud technologies. With my large breadth of knowledge in web development and cloud computing, I can understand and solutionise large and complex requirements. This along with my strengths of holistic and critical thinking allows me to deliver both impactful and long-term strategic solutions. I love pioneering new technologies and working greenfield. I thrive when challenged and i'm deeply passionate about people and technology. My personality is outgoing, my skillset is broad, I'm resourceful, motivated, and looking for my next challenge as an engineer.",
+    "location": {
+      "address": "Amsterdam, NL",
+      "countryCode": "NL",
+      "region": "Amsterdam"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "jon_tarrant",
+        "url": "https://twitter.com/Jon_Tarrant"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "jtarrant",
+        "url": "https://www.linkedin.com/in/jtarrant/"
+      },
+      {
+        "network": "Github",
+        "username": "JonHX",
+        "url": "https://github.com/JonHX/"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "name": "Storyteq",
+      "location": "NL",
+      "description": "Creative technology company",
+      "position": "Senior Software Engineer in AI",
+      "url": "https://www.storyteq.com",
+      "startDate": "2025-06-01",
+      "endDate": null,
+      "summary": "Senior Software Engineer in AI role focusing on AI-powered creative technology solutions.",
+      "highlights": [
+        "Contributed heavily to an image and video analysis tool to use named entity recognition for smart-tagging purposes",
+        "Designed and developed a AI natural language TTS service, following strict timings for advertisements in prescribed tones, across 20+ different languages",
+        "Designed and developed a briefing critiquing system for marketing briefs at large multinational corps",
+        "Heavily optimised a VueJS codebase bringing in state management and full testing suite",
+        "Heavily influenced ways of working change to mature team and software development cycle",
+        "Created POCs using Google Vertex agent technology, enabling agentic workflows"
+      ]
+    },
+    {
+      "name": "Dunelm",
+      "location": "UK",
+      "description": "Home and furniture retailer - UK market leader",
+      "position": "Principal Software Engineer",
+      "url": "https://www.dunelm.com",
+      "startDate": "2021-10-01",
+      "endDate": "2025-05-01",
+      "summary": "Led enterprise-level software engineering initiatives and briefs at large multinational corporations. Heavily optimised VueJS codebase bringing in state management and full testing suite. Heavily influenced ways of working change to mature team and software development cycle. Created POCs using Google Vertex agent technology, enabling agentic workflows.",
+      "highlights": [
+        "Implemented a supplier international collaboration portal (1,000+ business users, 5000+ supplier users)",
+        "Implemented a new product data MDM",
+        "Implemented Google Vertex AI Search for retail",
+        "Pioneered Micro-frontends across Dunelm.com",
+        "Modernised a critical .NET SQL Server application, mitigating business risk",
+        "Created and led three agile engineering teams (inc. Tech lead line management and coaching)",
+        "Automated commercial systems, improving KPIs such as time to market, supplier communication, and contract management",
+        "Heavily involved in RFP processes for business-critical systems",
+        "Working with Architects and other Principal Engineers to create enterprise, system, and application-level artifacts",
+        "Owned, tested, and delivered use of AI tooling for ~130 software engineers",
+        "Organiser of regular engineering leadership and wider engineering initiatives such as technical highlights forum to share new technology and encourage innovation",
+        "Worked heavily alongside third-party partners such as AWS, Google, Akeneo, Algolia"
+      ]
+    },
+    {
+      "name": "Dunelm",
+      "location": "UK",
+      "description": "Home and furniture retailer - UK market leader",
+      "position": "Technical Lead",
+      "url": "https://www.dunelm.com",
+      "startDate": "2020-08-01",
+      "endDate": "2021-10-01",
+      "summary": "Led technical initiatives and team management at Dunelm, focusing on system architecture and team leadership.",
+      "highlights": [
+        "Integrated a new Product Information Management (PIM) system, architecting all supporting infrastructure and transitional states",
+        "Architected and implemented a new image management tool for the website, saving £120k annually by replacing a third-party tool",
+        "Implemented a dynamic, reusable email capture component integrated directly with Salesforce",
+        "Architected a solution to enable the sale of bundled products on the website",
+        "Scoped and built a cookie consent mechanism to ensure legal compliance across the website",
+        "Led a team of 11 senior engineers, supporting 26 microservices and 11 critical business functions. Provided mentorship, technical guidance, and coordination to the team, worked closely with product function"
+      ]
+    },
+    {
+      "name": "Dunelm",
+      "location": "UK",
+      "description": "Home and furniture retailer - UK market leader",
+      "position": "Senior Software Engineer",
+      "url": "https://www.dunelm.com",
+      "startDate": "2019-06-01",
+      "endDate": "2020-08-01",
+      "summary": "Senior software engineering role focusing on SEO, accessibility, and system design at Dunelm.",
+      "highlights": [
+        "Designed and developed an SEO management system",
+        "Championed and implemented strong accessibility and SEO standards into dunelm.com",
+        "Mentored and coached engineers",
+        "Key contributor to stock and pricing systems"
+      ]
+    },
+    {
+      "name": "Holiday Extras",
+      "location": "UK",
+      "description": "Travel and leisure company - UK market leader",
+      "position": "Senior Software Engineer",
+      "url": "https://www.holidayextras.co.uk",
+      "startDate": "2016-03-01",
+      "endDate": "2019-06-01",
+      "summary": "Key member of the SEO and PPC engineering team, focusing on page speed and technical SEO. Developed and owned the company's Google AMP SEO strategy, which powered over 8,000 instant mobile pages across multiple brands and languages, driving significant SEO improvements.",
+      "highlights": [
+        "Key member of the SEO and PPC engineering team, focusing on page speed and technical SEO",
+        "Developed and owned the company's Google AMP SEO strategy, which powered over 8,000 instant mobile pages across multiple brands and languages, driving significant SEO improvements",
+        "Contributed to creating a bespoke React-based static site generator creating lightning-fast pages, improving SEO and conversion",
+        "Lead engineer in the business innovation team, creating a deals website in short timelines",
+        "Creating white-labeling systems for external clients such as Merlin Group and Warner"
+      ]
+    },
+    {
+      "name": "Bryter Digital",
+      "location": "UK",
+      "description": "Full-service agency",
+      "position": "Full-stack Engineer",
+      "url": "https://www.bryterdigital.com",
+      "startDate": "2015-03-01",
+      "endDate": "2016-03-01",
+      "summary": "Full-service agency role focusing on full-stack development and client delivery.",
+      "highlights": [
+        "Full-stack development on large LAMP based production websites",
+        "SEO and Marketing integration",
+        "Client-facing development and delivery"
+      ]
+    },
+    {
+      "name": "GForces",
+      "location": "UK",
+      "description": "Automotive digital solutions - UK market leader",
+      "position": "Front-end Engineer",
+      "url": "https://www.gforces.co.uk/",
+      "startDate": "2014-06-01",
+      "endDate": "2014-10-01",
+      "summary": "Front-end engineering role working with major automotive brands during university.",
+      "highlights": [
+        "LAMP stack development",
+        "SCSS Pattern Libraries",
+        "Working with major automotive brands"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Kent",
+      "url": "https://www.kent.ac.uk/",
+      "area": "Multimedia Technology & Design",
+      "studyType": "Bachelor of Science",
+      "startDate": "2012-09-01",
+      "endDate": "2015-05-01"
+    },
+    {
+      "institution": "Bexley College",
+      "url": "https://www.bexley.ac.uk/",
+      "area": "Creative Media Production",
+      "studyType": "National Diploma",
+      "startDate": "2010-09-01",
+      "endDate": "2012-07-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages & Libraries",
+      "level": "Expert",
+      "summary": "Extensive experience with modern web technologies and frameworks",
+      "keywords": [
+        "TypeScript",
+        "Webpack",
+        "Node.js",
+        "LESS/SCSS/CSS",
+        "React.js",
+        "MySQL",
+        "GraphQL",
+        "Cucumber",
+        "Jest",
+        "Python",
+        "Vue.js",
+        "JavaScript",
+        "PHP",
+        "Ruby",
+        "Gemini",
+        "Vertex AI",
+        "AMPHTML",
+        "Kubernetes",
+        ".NET",
+        "LAMP stack"
+      ]
+    },
+    {
+      "name": "Cloud Software",
+      "level": "Expert",
+      "summary": "Proficient with major cloud platforms and services",
+      "keywords": [
+        "Amazon Web Services: Lambda, S3, Eventbridge, Dynamo, Aurora, RDS, EC2, AppSync, SNS/SQS, Lightsail, IAM, Cloudformation, SES, ECS, DMS, Step Functions",
+        "Google Cloud Platform: Vertex AI, Vertex AI Search for retail, Cloudrun, Cloudfunctions",
+        "Google Analytics",
+        "Google Tag Manager",
+        "Akeneo",
+        "Algolia"
+      ]
+    },
+    {
+      "name": "Methods & Workflows",
+      "level": "Expert",
+      "summary": "Experienced in modern development methodologies and architectural patterns",
+      "keywords": [
+        "Micro Frontends",
+        "Micro Service Architecture",
+        "REST",
+        "Event Driven Architecture",
+        "Business DD",
+        "CI/CD",
+        "Agile/Scrum/Kanban",
+        "Serverless Architecture",
+        "Jest",
+        "Pair programming"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Certified Agile Leadership for Orgs (CAL-O)(CAL-E)",
+      "date": "2022-04-01",
+      "awarder": "Scrum Alliance",
+      "summary": "Certified Agile Leadership certification"
+    },
+    {
+      "title": "Mental Health First Aid",
+      "date": "2022-02-01",
+      "awarder": "Mental Health First Aid International",
+      "summary": "Mental Health First Aid certification"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hackathons & Meetups / Conferences",
+      "keywords": [
+        "Formula-E Google AI Hackathon 2024",
+        "AWS Unicorn Inc Hackathons (19/21/22/23)",
+        "London Serverless meetup (Monthly)",
+        "Fullstack 2022",
+        "React summit 2022",
+        "JSNation 2021"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/reorx/jsoncv/master/schema/jsoncv.schema.json",
+    "version": "v2.0.0",
+    "lastModified": "2025-01-18T22:10:00",
+    "name": "jon-tarrant-cv"
+  }
+}
